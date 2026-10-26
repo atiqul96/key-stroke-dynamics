@@ -14,3 +14,6 @@ Only key timings are sent to the server (never which keys). Profiles live in
 profiles/ on the server and are wiped when the app restarts.
 
 Azure: see AZURE.txt
+
+
+My name is Atiqul Islam Tonmoy
